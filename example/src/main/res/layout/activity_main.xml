@@ -49,5 +49,5 @@
         android:layout_alignRight="@+id/editText1"
         android:layout_below="@+id/editText1"
         android:layout_marginTop="42dp"
-        android:text="Send"/>
+        android:text="Transmit Signal"/>
 </RelativeLayout>
